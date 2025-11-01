@@ -30,3 +30,6 @@ const modalStyle = ref({
 
 
 ```
+
+## 30秒演示视频：
+https://raw.githubusercontent.com/shaoming01/antdvueresizemodal/refs/heads/main/demo.mp4
